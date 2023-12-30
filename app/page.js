@@ -7,12 +7,12 @@ export default function Home() {
       <div className="relative w-full h-fit m-0 bg-header bg-cover bg-center">
         <div className="relative w-full h-full flex flex-col lg:flex-row lg:items-end gap-7 lg:gap-14 bg-black bg-opacity-40 py-6 lg:py-12 px-5 md:px-12 lg:px-20">
           <h1 className="font-poppins font-semibold text-3xl md:text-5xl lg:text-5xl md:max-w-[800px] lg:max-w-none text-white uppercase tracking-wider">
-            Unlocking the Power of Premium Names for Your Pharmaceutical Ventures
+            Explore Unique Domain Havens for Animal Enthusiasts
           </h1>
           <p className="font-poppins text-white text-sm lg:text-base tracking-wider max-w-[400px]">
-            Explore our curated collection of premium domain names meticulously
-            selected to elevate your pharma brand. Each domain is a unique
-            gateway to enhancing visibility, credibility, and customer trust.
+            Whether you are a wildlife advocate, a pet lover, or simply
+            captivated by the wonders of nature, our carefully curated
+            collection has something for every animal admirer
           </p>
         </div>
       </div>
